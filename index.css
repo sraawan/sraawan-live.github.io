@@ -1,0 +1,67 @@
+.image{
+
+    border-radius:50%;  
+    display: flex;
+    flex-basis:
+      
+}
+.image:hover{
+    border: 1px solid white;
+    border-radius:50%;  
+    background:white;
+    transition:500ms;
+    
+}
+
+
+span{
+    position: relative;
+    right:9px;
+    width:0px;
+    color: black;
+}
+
+.img1{
+   border-radius: 10px;
+    width:50px;
+    height:30px;
+   
+}
+.img1:hover{
+    border-radius: 10px;
+    width:60px;
+    height:30px;
+    border: 1px solid white;
+    background:white;
+    transition:500ms;
+}
+.img2{
+    
+    
+}
+
+
+.img3{
+    position: relative;    
+    left:20%;
+    color:lightcyan;
+    border-radius:50%;
+    transition:500ms;
+  
+    
+    }
+.img3:hover{
+    background:skyblue;
+   
+}
+.profile{
+    position: relative;
+    left:60px;
+}
+.unr{
+    background:green;
+   border-radius: 50%;
+    border: 2px solid white;
+  
+   
+}
